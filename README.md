@@ -127,17 +127,6 @@ creating the outputs in the *resources* directory.
       maximizing the probability product by increasing the lowest probabilities.
     * I was not able to figure out how to cope with small dataset 2 of the Core Training problem.
 
-## Previous editions
-I solved some problems from past editions for practicing. Each top level package refers to a year,
-with second level packages for rounds.
-* codejam2016: round1b, round1c
-* codejam2015: round1c
 
-## Why Java?
-IDE support, debugger, standard library, good performance, ubiquity.\
-Why not, to name one, C++? Templates, basically. While I recognize templates are very useful,
-I think modern C++ has gone a little overboard with templates, and I hate error messages involving templates.\
-I miss value types, generics on primitives and -very rarely- operator overloading, though.
 
-## Licensing terms
-Permissive, two-clause BSD license.
+
