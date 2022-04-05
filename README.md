@@ -3,7 +3,7 @@
 # Solutions to problems of Code Jam 2022
 
 This repository includes my solutions to the problems of the Google Code Jam
-competitions up to year 2021, either as submitted during the contest or made on a second thought.
+competitions up to year 2022, either as submitted during the contest or made on a second thought.
 
 Let's begin with briefly outlining the structure of the contest followed by discussing the topics emphasized in these rounds to get a sense about its difficulty.
 
